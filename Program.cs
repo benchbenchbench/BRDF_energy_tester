@@ -36,7 +36,7 @@ static string TestMethod()
     
     
     
-    return string.Format("Result: {0}", totalArea);
+    return string.Format("Result:  {0}", totalArea);
 }
 
 Console.WriteLine(TestMethod());

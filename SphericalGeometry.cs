@@ -27,7 +27,7 @@ namespace BRDF_energy_tester
         /// <summary>
         /// Calculates the surface area of a sphere based upon the radius length. 
         /// </summary>
-        /// <param name="radius">Size of the sphere. Assumed to be 1.0 if no value given.</param>
+        /// <param name="radius">Size of the sphere. Assumed to be 1.0 if no value given. </param>
         /// <returns></returns>
         public static double SurfaceArea(double radius = 1.0d)
         {
